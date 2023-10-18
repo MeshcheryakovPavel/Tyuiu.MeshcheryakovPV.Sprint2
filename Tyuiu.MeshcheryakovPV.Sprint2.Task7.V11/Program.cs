@@ -13,7 +13,7 @@ namespace Tyuiu.MeshcheryakovPV.Sprint2.Task7.V11
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #2| Выполнил: Мещеряков П.В. | ИИПб-23-2";
+            Console.Title = "Спринт #2| Выполнил: Мещеряков П.В. | ИИПб-23-2"; 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема:  Добавление к решению итоговых проектов по спринту                *");
